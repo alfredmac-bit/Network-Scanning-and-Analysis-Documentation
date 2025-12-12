@@ -1,6 +1,6 @@
 # Network Scanning & Packet Analysis Lab
 
-**Student:** Tawanda Alfred Machanangwa
+**Student:** Tawanda Alfred Machanyangwa
 
 ## Overview
 
